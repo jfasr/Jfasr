@@ -1,5 +1,4 @@
-### Hi there 👋
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bgkswx3vujab5ug035igyl81n&cover_image=true&theme=novatorem&show_offline=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 <!--
 **jfasr/Jfasr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
